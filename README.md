@@ -21,13 +21,13 @@ This is a simple shell program implemented in the C programming language. It pro
 
 1. Open a terminal and navigate to the directory containing the code files.
 2. Compile the code using the following command:
-
+```bash
 gcc shell.c -o shell -lreadline
-
-3. Run the shell program with the following command:
-
+```
+4. Run the shell program with the following command:
+```bash
 ./shell
-
+```
 4. The shell program will start, and you can enter commands and interact with the shell.
 
 ## Supported Commands
